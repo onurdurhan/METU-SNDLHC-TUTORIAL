@@ -77,5 +77,5 @@ h4.Draw("same")
 h5.Draw("same")
 h6.Draw("same")
 
-#ut.writeHists(hist,"histos.root")
+ut.writeHists(rc,"histos.root")  #### do this
 #print "analysis done ","histos-"+fName, " created"
